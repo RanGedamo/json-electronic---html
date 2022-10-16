@@ -58,73 +58,7 @@
                 ]
             }
         ]
-    },
-    {
-        "projector": [
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4413374.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/d/l/dlv-250-vision-led-projector-isometric1-web.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4401369_2_.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4413377.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4408045_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/p/j/pjx24.jpg"
-        ]
-    },
-    {
-        "washer": [
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417662_1.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417659_1.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417657_1.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421886.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417660_1.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417696_1.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417654_1.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417653.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423015.jpg"
-        ]
-    },
-    {
-        "dryer": [
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423400_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422447.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421908.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/1/6/16482892_wt47rt90il_stp_def.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421909.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421883.jpg"
-        ]
-    },
-    {
-        "fridge": [
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/6/265434.jpg/mxw_2048,ns_atwebp,f_auto",
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/7/2777973.jpg/mxw_2048,ns_atwebp,f_auto",
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/6/265433.jpg/mxw_2048,ns_atwebp,f_auto",
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/r/t/rt101.jpg/mxw_2048,ns_atwebp,f_auto",
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/d/_/d_3.jpg/mxw_2048,ns_atwebp,f_auto",
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/7/276045.jpg/mxw_2048,ns_atwebp,f_auto",
-            "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/7/276043.jpg/mxw_2048,ns_atwebp,f_auto"
-        ]
-    },
-    {
-        "vacuuming": [
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423892_1.jpeg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422435_8.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423668.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423891_10.jpeg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423891_10.jpeg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4418661_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420315_1_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4409800.png",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423890_9.jpg"
-        ]
-    },
-    {
-        "dishwasher": [
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422445.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422228_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422229_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422423.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422425.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422234_1.jpg",
-            "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422417.jpg"
-        ]
     }
 ]
+
+        
