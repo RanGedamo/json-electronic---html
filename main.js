@@ -5,7 +5,7 @@ async function electronic(){
         .then(res=>res)
         console.log(result)
         result.map(item=>{
-            console.log(item.tv)
+            console.log(item.tv.imageTv)
         })
         
     }
