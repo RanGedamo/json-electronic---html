@@ -1,0 +1,44 @@
+[
+    {
+        "id": "closet-1",
+        "nameCloset": "PAX / GRIMO",
+        "imageCloset": "https://www.ikea.com/us/en/images/products/pax-grimo-wardrobe-combination-white__0955312_pe803754_s5.jpg?f=s",
+        "dataCloset": "Wardrobe combination, white, 98 3/8x26x79 1/4",
+        "priceCloset": "$1,790.00"
+    },
+    {
+        "id": "closet-2",
+        "nameCloset": "PAX / MEHAMN/AULI",
+        "imageCloset": "https://www.ikea.com/us/en/images/products/pax-mehamn-auli-wardrobe-double-sided-white-white-stained-oak-effect-mirror-glass__1149165_pe883867_s5.jpg?f=xxs",
+        "dataCloset": "Wardrobe, double sided white/white stained oak effect mirror glass, 98 3/8x26x93 1/8 ",
+        "priceCloset": "$1,379.00"
+    },
+    {
+        "id": "closet-3",
+        "nameCloset": "PAX / MEHAMN",
+        "imageCloset": "https://www.ikea.com/us/en/images/products/pax-mehamn-wardrobe-double-sided-white__1149167_pe883869_s5.jpg?f=xxs",
+        "dataCloset": "Wardrobe, double sided white, 98 3/8x26x93 1/8",
+        "priceCloset": "$1,374.00"
+    },
+    {
+        "id": "closet-4",
+        "nameCloset": "PAX / HOKKSUND",
+        "imageCloset": "https://www.ikea.com/us/en/images/products/pax-hokksund-wardrobe-combination-white-high-gloss-light-gray__1038609_pe839756_s5.jpg?f=xxs",
+        "dataCloset": "Wardrobe combination, white/high gloss light gray, 78 3/4x26x93 1/8",
+        "priceCloset": "$1,069.00"
+    },
+    {
+        "id": "closet-5",
+        "nameCloset": "PAX / HOKKSUND",
+        "imageCloset": "https://www.ikea.com/us/en/images/products/pax-hokksund-wardrobe-white-light-gray__1150951_pe884688_s5.jpg?f=xxs",
+        "dataCloset": "Wardrobe, white/light gray, 59x26x79 1/4",
+        "priceCloset": "$970.00"
+    },
+    {
+        "id": "closet-6",
+        "nameCloset": "PAX / AULI",
+        "imageCloset": "https://www.ikea.com/us/en/images/products/pax-auli-wardrobe-white-mirror-glass__1149173_pe883870_s5.jpg?f=xxs",
+        "dataCloset": "Wardrobe, white/mirror glass, 59x26x93 1/8",
+        "priceCloset": "$700.00"
+    }
+]
