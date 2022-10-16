@@ -1,0 +1,86 @@
+[
+    {
+        "id":"vacuuming-1",
+        "nameVacuuming": "Tineco A11",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/71qxDeUUCTL._AC_UY218_.jpg",
+        "dataVacuuming": "Tineco A11 Hero EX Cordless Stick Vacuum, Powerful Suction Handheld Vac Lightweight for Carpet Hard Floor",
+        "priceVacuuming": "$329.99"
+    },
+    {
+        "id":"vacuuming-2",
+        "nameVacuuming": "Dreametech",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/511uZTSCQwL._AC_UY218_.jpg",
+        "dataVacuuming": "Dreametech D9 Robot Vacuum and Mop Cleaner, Lidar Navigation Robot Vacuum Sweep and Mop 2-in-1, 3000Pa Strong Suction Power, 150min Runtime, Compatible with Alexa, Smart Mapping for Carpet, Hard Floor",
+        "priceVacuuming": "$299.99"
+    },
+    {
+        "id":"vacuuming-3",
+        "nameVacuuming": "EUREKA",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/51pTLPkwHLL._AC_UL320_.jpg",
+        "dataVacuuming": "Eureka Lightweight Cordless Vacuum Cleaner, High Efficiency Powerful Motor LED Headlights, Convenient Stick and Handheld Vac, Black",
+        "priceVacuuming": "$209.92"
+    },
+    {
+        "id":"vacuuming-4",
+        "nameVacuuming": "AIRROBO",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/61gLN9PQhsL._AC_UL320_.jpg",
+        "dataVacuuming": "Robot Vacuum and Mop with Auto Dirt Disposal, Lidar Navigation, Compatible with Alexa and Google Assistant, 250Min Runtime, 2700Pa Strong Suction for Pet Hair, Hard Floor, Low-pile Carpet,AIRROBO T10+",
+        "priceVacuuming": "$499.99"
+    },
+    {
+        "id":"vacuuming-5",
+        "nameVacuuming": "Dreametech",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/71YPvE7vwML._AC_UL320_.jpg",
+        "dataVacuuming": "Dreametech L10 Pro Robot Vacuum Cleaner with Dual-Line LiDAR Navigation, 3D Obstacle Avoidance, 4000Pa Suction Multi-Level Mapping, Compatible with Alexa/App, Ideal for Pet Hair, Carpet, Hard Floors",
+        "priceVacuuming": "$489.99"
+    },
+    {
+        "id":"vacuuming-6",
+        "nameVacuuming": "SAMSUNG",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/51RKlVS32PS._AC_UL320_.jpg",
+        "dataVacuuming": "SAMSUNG Jet Bot AI+ Robot Vacuum Cleaner w/ Object Recognition, Intelligent Cleaning, Clean Station, 5-Layer Filter, Touchless Dust Removal for Hardwood Floors, Carpets, VR50T95735W, White",
+        "priceVacuuming": "$1,299.00"
+    },
+    {
+        "id":"vacuuming-7",
+        "nameVacuuming": "DELLONA",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/51w1A5QYwNL._AC_UL320_.jpg",
+        "dataVacuuming": "Dellona Veniibot H10 Robot Vacuum and Mop With Self Cleaning Station - Sweeping, Suction, Mopping, Auto Wash, Air Dry & sterilization 6in1, W/ Lidar 2.0 Obstacle Detection For Carpet, Hard Floor, Tile",
+        "priceVacuuming": "$699.97"
+    },
+    {
+        "id":"vacuuming-8",
+        "nameVacuuming": "ECOVACS",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/51G4GyDEBxL._AC_UL320_.jpg",
+        "dataVacuuming": "ECOVACS DEEBOT X1 Turbo Mop Combo with Auto-Cleaning Station, 5000Pa, Robot Vacuum Cleaner with Upgraded Laser Navigation, Obstacle Avoidance, Built-in YIKO Voice Assistant, Black",
+        "priceVacuuming": "$1,349.99"
+    },
+    {
+        "id":"vacuuming-9",
+        "nameVacuuming": "KppeX",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/71xxTIyDAdL._AC_UL320_.jpg",
+        "dataVacuuming": "Robot Vacuum, 2100Pa Upgrade Robotic Vacuum Cleaner with Gyroscope, 7.15 cm Slim, Self-Charging Vacuum with Boundary Strips, Quiet Multiple Cleaning Modes Ideal for Pet Hair, Hard Floor, Carpets",
+        "priceVacuuming": "$499.00"
+    },
+    {
+        "id":"vacuuming-10",
+        "nameVacuuming": "Dreametech",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/511uZTSCQwL._AC_UL320_.jpg",
+        "dataVacuuming": "Dreametech D9 Robot Vacuum and Mop Cleaner, Lidar Navigation Robot Vacuum Sweep and Mop 2-in-1, 3000Pa Strong Suction Power, 150min Runtime, Compatible with Alexa, Smart Mapping for Carpet, Hard Floor",
+        "priceVacuuming": "$299.99"
+    },
+    {
+        "id":"Vacuuming-11",
+        "nameVacuuming": "SAMSUNG",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/71aQKAZbguL._AC_UL320_.jpg",
+        "dataVacuuming": "SAMSUNG BESPOKE Jet Cordless Stick Vacuum Cleaner w/ All In One Clean Station, Powerful Floor Cleaning for Carpet, Hardwood, Tile, Lightweight, 5-Layer Filter, VS20A95923W/AA, Misty White",
+        "priceVacuuming": "$700.70"
+    },
+    {
+        "id":"vacuuming-12",
+        "nameVacuuming": "Simplicity",
+        "imageVacuuming": "https://m.media-amazon.com/images/I/714BmUxcMsL._AC_UL320_.jpg",
+        "dataVacuuming": "Simplicity S65D Cordless Vacuum Cleaner Pet Hair Deluxe, Lightweight Vacuum Cleaner Carpet and Floor Dual Action, One-Click and Go with Two Speeds, Converts to Handheld Vacuum for Pet Hair",
+        "priceVacuuming": "$329.99"
+    }
+]
