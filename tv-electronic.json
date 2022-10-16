@@ -1,5 +1,6 @@
 [
     {
+        "id":"tv-1",
         "nameTv": "BRAVIA XR Mini Led",
         "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422963_1.jpg",
         "inchTv": "60inch",
@@ -7,6 +8,7 @@
         "yearTv": "2020"
     },
     {
+        "id":"tv-2",
         "nameTv": "LG OLED",
         "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422882.jpg",
         "inchTv": "50inch",
@@ -14,6 +16,7 @@
         "yearTv": "2021"
     },
     {
+        "id":"tv-3",
         "nameTv": "SUMSUNG Neo QLED 8K",
         "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422905_1.jpg",
         "inchTv": "69inch",
@@ -21,6 +24,7 @@
         "yearTv": "2022"
     },
     {
+        "id":"tv-4",
         "nameTv": "SONY BRAVIA XR OLED",
         "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422956.jpg",
         "inchTv": "51inch",
@@ -28,6 +32,7 @@
         "yearTv": "2020"
     },
     {
+        "id":"tv-5",
         "nameTv": "SONY BRAVIA XR",
         "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/l/6lgxr75z9jaep19.jpg",
         "inchTv": "55inch",
@@ -35,6 +40,7 @@
         "yearTv": "2021"
     },
     {
+        "id":"tv-6",
         "nameTv": "Neo QLED 8K",
         "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422903_1.jpg",
         "inchTv": "60inch",
