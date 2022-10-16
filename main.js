@@ -1,14 +1,14 @@
-
+const PROJECTOR_API = "https://rangedamo.github.io/json-electronic---html/projector-apartments.json"
+const TV_API = "https://rangedamo.github.io/json-electronic---html/tv-apartments.json"
 async function electronic(){
     try{
-        const result =  await fetch("https://rangedamo.github.io/json-electronic---html/tv-apartments.json").then(res=>res.json())
+        const result =  await fetch(PROJECTOR_API).then(res=>res.json())
         .then(res=>res)
         console.log(result)
         
         result.map(item=>{
-            const imageTvs = document.createElement('div')
-            console.log(item.imageTv)
-            imageTvs.innerHTML = `<img src=${item.imageTv} width='200px'>`
+            console.log(item.imageP)
+            projector.innerHTML += `<p>${item.nameProjector}</p><img src=${item.imageProjector} width='200px'> <br> <p>${item.dataProjector}</p>`
         })
         
     }
