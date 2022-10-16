@@ -1,0 +1,44 @@
+[
+    {
+        "namedFridge": "SHARP",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TFU52_L_P_7290015970921_1.png",
+        "dataFridge": "Lower freezer fridge 4 doors 615 black liter black glass SHARP",
+        "priceFridge": "$3,000"
+    },
+    {
+        "namedFridge": "Sachs EF-580N",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UPH46_L_P_7290017430652_1.png",
+        "dataFridge": "Refrigerator 4 lower freezing doors 410 liters white glass net",
+        "priceFridge": "$1,500"
+    },
+    {
+        "namedFridge": "SHARP",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RUZ60_L_P_7296073591092_1.png",
+        "dataFridge": "Refrigerator 4 white glass doors",
+        "priceFridge": "$3,000"
+    },
+    {
+        "namedFridge": "Haier",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LOO52_L_P_7290110788261_1.png",
+        "dataFridge": "Refrigerator 4 472-liter freezer lower Nirosta",
+        "priceFridge": "$1,670"
+    },
+    {
+        "namedFridge": "AMCOR | AM4506GW",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LER60_L_P_7290015965484_1.png",
+        "dataFridge": "Refrigerator 4 lower freezing doors 483 liters white glass net",
+        "priceFridge": "$1,550"
+    },
+    {
+        "namedFridge": "AMCOR | AM4472GB",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VKB40_L_P_7290018802120_1.png",
+        "dataFridge": "Refrigerator 4 lower freezing doors 401 liters black glass net",
+        "priceFridge": "$1,300"
+    },
+    {
+        "namedFridge": "SHARP | SJ-FP85V",
+        "imageFridge": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZYS54_L_P_7290016942149_1.png",
+        "dataFridge": "Refrigerator freezes bottom 4 doors 516 liters of gray glossy",
+        "priceFridge": "$2,600"
+    }
+]
