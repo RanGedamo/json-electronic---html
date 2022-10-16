@@ -5,7 +5,11 @@ async function electronic(){
         .then(res=>res)
         console.log(result)
         result.map(item=>{
-            console.log(item.tv.imageTv)
+            for (let index = 0; index < array.length; index++) {
+                
+                
+            }
+            console.log(result[0].tv[0])
         })
         
     }
