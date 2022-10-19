@@ -1,86 +1,86 @@
 [
     {
         "id":"couch-1",
-        "nameCouch": "WJCDG",
-        "imageCouch": "https://m.media-amazon.com/images/I/41Z5RB3SEEL._AC_UL320_.jpg",
-        "dataCouch": "n/a Futon Sofa Bed, Mid-Century Modern Convertible Couch Loveseat Sleeper for Small Space,",
-        "priceCouch": "$3,850"
+        "brand": "WJCDG",
+        "image": "https://m.media-amazon.com/images/I/41Z5RB3SEEL._AC_UL320_.jpg",
+        "data": "n/a Futon Sofa Bed, Mid-Century Modern Convertible Couch Loveseat Sleeper for Small Space,",
+        "price": "$3,850"
     },
     {
         "id":"couch-2",
-        "nameCouch": "WJCDG",
-        "imageCouch": "https://m.media-amazon.com/images/I/41TkAmECfrL._AC_UL320_.jpg",
-        "dataCouch": "n/a Futon Sofa Bed with 5 Golden Metal Legs, Sleeper Sofa Couch with Two Pillows, Loveseat Sofa for Living Room and Bedroom",
-        "priceCouch": "$3,936"
+        "brand": "WJCDG",
+        "image": "https://m.media-amazon.com/images/I/41TkAmECfrL._AC_UL320_.jpg",
+        "data": "n/a Futon Sofa Bed with 5 Golden Metal Legs, Sleeper Sofa Couch with Two Pillows, Loveseat Sofa for Living Room and Bedroom",
+        "price": "$3,936"
     },
     {
         "id":"couch-3",
-        "nameCouch": "Generic",
-        "imageCouch": "https://m.media-amazon.com/images/I/51EeOxjTymL._AC_UL320_.jpg",
-        "dataCouch": "Sofa Bed Linen Memory Foam Couch Modern Convertible Love Seat for Compact Living Spaces Offices Apartments",
-        "priceCouch": "$3,770"
+        "brand": "Generic",
+        "image": "https://m.media-amazon.com/images/I/51EeOxjTymL._AC_UL320_.jpg",
+        "data": "Sofa Bed Linen Memory Foam Couch Modern Convertible Love Seat for Compact Living Spaces Offices Apartments",
+        "price": "$3,770"
     },
     {
         "id":"couch-4",
-        "nameCouch": "LINCHUN",
-        "imageCouch": "https://m.media-amazon.com/images/I/814IekLBSbL._AC_UL320_.jpg",
-        "dataCouch": "LINCHUN 90 Reversible Pull Out Sleeper L-Shaped Sectional Storage Sofa Bed,Corner Sofa-Bed with Storage Chaise Left/Right Handed Durable",
-        "priceCouch": "$2,293"
+        "brand": "LINCHUN",
+        "image": "https://m.media-amazon.com/images/I/814IekLBSbL._AC_UL320_.jpg",
+        "data": "LINCHUN 90 Reversible Pull Out Sleeper L-Shaped Sectional Storage Sofa Bed,Corner Sofa-Bed with Storage Chaise Left/Right Handed Durable",
+        "price": "$2,293"
     },
     {
         "id":"couch-5",
-        "nameCouch": "LINCHUN",
-        "imageCouch": "https://m.media-amazon.com/images/I/31wvOEoV2ZL._AC_UL320_.jpg",
-        "dataCouch": "LINCHUN 2-Seater Motion Sofa Grey PU Durable",
-        "priceCouch": "$1,702"
+        "brand": "LINCHUN",
+        "image": "https://m.media-amazon.com/images/I/31wvOEoV2ZL._AC_UL320_.jpg",
+        "data": "LINCHUN 2-Seater Motion Sofa Grey PU Durable",
+        "price": "$1,702"
     },
     {
         "id":"couch-6",
-        "nameCouch": "Moselota",
-        "imageCouch": "https://m.media-amazon.com/images/I/61bLVabvHqL._AC_UL320_.jpg",
-        "dataCouch": "HQ-280 Sofa Couch, Mid-Century Tufted Love Seat for Living Room(Green)",
-        "priceCouch": "$1,299"
+        "brand": "Moselota",
+        "image": "https://m.media-amazon.com/images/I/61bLVabvHqL._AC_UL320_.jpg",
+        "data": "HQ-280 Sofa Couch, Mid-Century Tufted Love Seat for Living Room(Green)",
+        "price": "$1,299"
     },
     {
         "id":"couch-7",
-        "nameCouch": "Rosevera",
-        "imageCouch": "https://m.media-amazon.com/images/I/91esXtekdBL._AC_UL320_.jpg",
-        "dataCouch": "Rosevera Garcia Upholstered Fine Polyester Collection Tufted Loveseat Couch, Contemporary Chesterfield Armrest,Sectional Sofa for Living Room Apartment, Beige",
-        "priceCouch": "$2,300"
+        "brand": "Rosevera",
+        "image": "https://m.media-amazon.com/images/I/91esXtekdBL._AC_UL320_.jpg",
+        "data": "Rosevera Garcia Upholstered Fine Polyester Collection Tufted Loveseat Couch, Contemporary Chesterfield Armrest,Sectional Sofa for Living Room Apartment, Beige",
+        "price": "$2,300"
     },
     {
         "id":"couch-8",
-        "nameCouch": "CorLiving",
-        "imageCouch": "https://m.media-amazon.com/images/I/619Qk8gfS7L._AC_UL320_.jpg",
-        "dataCouch": "CorLiving Georgia Dark Gray Fabric Upholstered Three Seater Sofa",
-        "priceCouch": "$1,800"
+        "brand": "CorLiving",
+        "image": "https://m.media-amazon.com/images/I/619Qk8gfS7L._AC_UL320_.jpg",
+        "data": "CorLiving Georgia Dark Gray Fabric Upholstered Three Seater Sofa",
+        "price": "$1,800"
     },
     {
         "id":"couch-9",
-        "nameCouch": "CorLiving",
-        "imageCouch": "https://m.media-amazon.com/images/I/71qmWxB8ahL._AC_UL320_.jpg",
-        "dataCouch": "CorLiving Mulberry Fabric Upholstered Modern Sofa in Navy Blue",
-        "priceCouch": "$1,650"
+        "brand": "CorLiving",
+        "image": "https://m.media-amazon.com/images/I/71qmWxB8ahL._AC_UL320_.jpg",
+        "data": "CorLiving Mulberry Fabric Upholstered Modern Sofa in Navy Blue",
+        "price": "$1,650"
     },
     {
         "id":"couch-10",
-        "nameCouch": "CorLiving",
-        "imageCouch": "https://m.media-amazon.com/images/I/61POSHfI67L._AC_UL320_.jpg",
-        "dataCouch": "CorLiving Georgia Light Gray Fabric Upholstered Three Seater Sofa",
-        "priceCouch": "$1,820"
+        "brand": "CorLiving",
+        "image": "https://m.media-amazon.com/images/I/61POSHfI67L._AC_UL320_.jpg",
+        "data": "CorLiving Georgia Light Gray Fabric Upholstered Three Seater Sofa",
+        "price": "$1,820"
     },
     {
         "id":"couch-11",
-        "nameCouch": "Amazon Brand",
-        "imageCouch": "https://m.media-amazon.com/images/I/71pXRSvm7pL._AC_UL320_.jpg",
-        "dataCouch": "Amazon Brand - Rivet Brooke Contemporary Mid-Century Modern Tufted Velvet Sofa Couch, 82W, Emerald",
-        "priceCouch": "$2,000"
+        "brand": "Amazon Brand",
+        "image": "https://m.media-amazon.com/images/I/71pXRSvm7pL._AC_UL320_.jpg",
+        "data": "Amazon Brand - Rivet Brooke Contemporary Mid-Century Modern Tufted Velvet Sofa Couch, 82W, Emerald",
+        "price": "$2,000"
     },
     {
         "id":"couch-12",
-        "nameCouch": "Amazon Brand",
-        "imageCouch": "https://m.media-amazon.com/images/I/81I4uiAqNbL._AC_UL320_.jpg",
-        "dataCouch": "Amazon Brand - Stone & Beam Faraday Down-Filled Casual Slipcovered Sofa, 89W, Charcoal Grey",
-        "priceCouch": "$1,500"
+        "brand": "Amazon Brand",
+        "image": "https://m.media-amazon.com/images/I/81I4uiAqNbL._AC_UL320_.jpg",
+        "data": "Amazon Brand - Stone & Beam Faraday Down-Filled Casual Slipcovered Sofa, 89W, Charcoal Grey",
+        "price": "$1,500"
     }
 ]
