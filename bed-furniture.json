@@ -4,41 +4,41 @@
         "brand": "HAUGA",
         "image": "https://www.ikea.com/eg/en/images/products/hauga-upholstered-bed-4-storage-boxes-vissle-grey__1101332_pe866596_s5.jpg?f=xxs",
         "data": "Upholstered bed, 4 storage boxes, Vissle grey, 140x200 cm",
-        "price": "$3,000"
+        "price": "3000"
     },
     {
         "id":"bed-2",
         "image": "MALM",
         "imageBed": "https://www.ikea.com/eg/en/images/products/malm-ottoman-bed-white__0594850_pe676177_s5.jpg?f=xxs",
         "data": "Ottoman bed, white, 180x200 cm",
-        "price": "$4,800"
+        "price": "4800"
     },
     {
         "id":"bed-3",
         "brand": "GLADSTAD",
         "image": "https://www.ikea.com/eg/en/images/products/gladstad-upholstered-bed-4-storage-boxes-kabusa-light-grey__1101371_pe866632_s5.jpg?f=xxs",
         "data": "Upholstered bed, 4 storage boxes, Kabusa light grey, 140x200 cm",
-        "price": "$5,600"
+        "price": "5600"
     },
     {
         "id":"bed-4",
         "brand": "PLATSA",
         "image": "https://www.ikea.com/eg/en/images/products/platsa-bed-frame-with-10-drawers-white-fonnes__0710693_pe729931_s5.jpg?f=xxs",
         "data": "Bed frame with 10 drawers, white/Fonnes, 140x244x103 cm",
-        "price": "$8,700"
+        "price": "8700"
     },
     {
         "id":"bed-5",
         "brand": "PLATSA",
         "image": "https://www.ikea.com/eg/en/images/products/platsa-bed-frame-with-8-door-4-drawers-white-fonnes__0908346_pe783240_s5.jpg?f=xxs",
         "data": "Bed frame with 8 door+4 drawers, white/Fonnes, 142x244x223 cm",
-        "price": "$8,450"
+        "price": "8450"
     },
     {
         "id":"bed-6",
         "brand": "PLATSA",
         "image": "https://www.ikea.com/eg/en/images/products/platsa-bed-frame-with-2-drawers-white-fonnes__0711031_pe729920_s5.jpg?f=xxs",
         "data": "Bed frame with 2 drawers, white/Fonnes, 142x244x103 cm",
-        "price": "$6,360"
+        "price": "6360"
     }
 ]
