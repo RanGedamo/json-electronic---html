@@ -4,35 +4,35 @@
         "brand": "PAX / GRIMO",
         "image": "https://www.ikea.com/us/en/images/products/pax-grimo-wardrobe-combination-white__0955312_pe803754_s5.jpg?f=s",
         "data": "Wardrobe combination, white, 98 3/8x26x79 1/4",
-        "price": "$1,790.00"
+        "price": 1790.00
     },
     {
         "id": "closet-2",
         "brand": "PAX / MEHAMN/AULI",
         "image": "https://www.ikea.com/us/en/images/products/pax-mehamn-auli-wardrobe-double-sided-white-white-stained-oak-effect-mirror-glass__1149165_pe883867_s5.jpg?f=xxs",
         "data": "Wardrobe, double sided white/white stained oak effect mirror glass, 98 3/8x26x93 1/8 ",
-        "price": "$1,379.00"
+        "price": 1379.00
     },
     {
         "id": "closet-3",
         "brand": "PAX / MEHAMN",
         "image": "https://www.ikea.com/us/en/images/products/pax-mehamn-wardrobe-double-sided-white__1149167_pe883869_s5.jpg?f=xxs",
         "data": "Wardrobe, double sided white, 98 3/8x26x93 1/8",
-        "price": "$1,374.00"
+        "price": 1374.00
     },
     {
         "id": "closet-4",
         "brand": "PAX / HOKKSUND",
         "image": "https://www.ikea.com/us/en/images/products/pax-hokksund-wardrobe-combination-white-high-gloss-light-gray__1038609_pe839756_s5.jpg?f=xxs",
         "data": "Wardrobe combination, white/high gloss light gray, 78 3/4x26x93 1/8",
-        "price": "$1,069.00"
+        "price": 1069.00
     },
     {
         "id": "closet-5",
         "brand": "PAX / HOKKSUND",
         "image": "https://www.ikea.com/us/en/images/products/pax-hokksund-wardrobe-white-light-gray__1150951_pe884688_s5.jpg?f=xxs",
         "data": "Wardrobe, white/light gray, 59x26x79 1/4",
-        "price": "$970.00"
+        "price": 970.00
     },
     {
         "id": "closet-6",
