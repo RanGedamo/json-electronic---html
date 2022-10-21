@@ -1,50 +1,44 @@
 [
     {
         "id":"tv-1",
-        "brand": "BRAVIA XR Mini Led",
-        "image": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422963_1.jpg",
-        "inch": "60inch",
-        "price": "$500",
-        "year": "2020"
+        "brand": "GTUOXIES",
+        "image": "https://m.media-amazon.com/images/I/71hab9KuutL._AC_UY218_.jpg",
+        "data": "GTUOXIES, 105 Inch LED & LCD TV, TS105TV, Large Displays, 105 Television & Video 4K TVs, 24:9, WiFi, HDMI, USB, for Home, Business, Public Show",
+        "price": 9000
     },
     {
         "id":"tv-2",
-        "brand": "LG OLED",
-        "image": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422882.jpg",
-        "inch": "50inch",
-        "price": "$455",
-        "year": "2021"
+        "brand": "Hisense A4",
+        "image": "https://m.media-amazon.com/images/I/61DQCQUJtoL._AC_UY218_.jpg",
+        "data": "Hisense A4 Series 40-Inch Class FHD Smart Android TV with DTS Virtual X, Game & Sports Modes, Chromecast Built-in, Alexa Compatibility (40A4H, 2022 New Model)",
+        "price": 189
     },
     {
         "id":"tv-3",
-        "brand": "SUMSUNG Neo QLED 8K",
-        "image": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422905_1.jpg",
-        "inch": "69inch",
-        "price": "$680",
-        "year": "2022"
+        "brand": "Caixun",
+        "image": "https://m.media-amazon.com/images/I/71-7zNu6cbL._AC_UY218_.jpg",
+        "data": "Caixun EC40V2FA, 40 inch 1080p FHD Smart Android TV with Screen Share, HDMI, USB (HDMI Cable Included - 2022 Model)",
+        "price": 239
     },
     {
         "id":"tv-4",
-        "brand": "SONY BRAVIA XR OLED",
-        "image": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422956.jpg",
-        "inch": "51inch",
-        "price": "$400",
-        "year": "2020"
+        "brand": "VIZIO",
+        "image": "https://m.media-amazon.com/images/I/81JwrUaZPLL._AC_UY218_.jpg",
+        "data": "VIZIO 24-inch D-Series Full HD 1080p Smart TV with Apple AirPlay and Chromecast Built-in, Alexa Compatibility, D24f-J09, 2022 Model",
+        "price": 148
     },
     {
         "id":"tv-5",
-        "brand": "SONY BRAVIA XR",
-        "image": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/l/6lgxr75z9jaep19.jpg",
-        "inch": "55inch",
-        "price": "$520",
-        "year": "2021"
+        "brand": "Sceptre",
+        "image": "https://m.media-amazon.com/images/I/51usibpi5VL._AC_UY218_.jpg",
+        "data": "Sceptre UTV 50 Class 4K LED TV 3840x2160 U508CV-UMC 4X HDMI Ports, Metal Black",
+        "price": 477
     },
     {
         "id":"tv-6",
-        "brand": "Neo QLED 8K",
-        "image": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422903_1.jpg",
-        "inch": "60inch",
-        "price": "$555",
-        "year": "2022"
+        "brand": "GTUOXIES",
+        "image": "https://m.media-amazon.com/images/I/81lbM9mwGKL._AC_UY218_.jpg",
+        "data": "GTUOXIES, 100 Inch LED & LCD TV, TS100TV, Huge Screen, 100 Television & Video 4K TVs, 16:9, WiFi, HDMI, USB, for Retail/Home Viewing",
+        "price": 9333
     }
 ]
