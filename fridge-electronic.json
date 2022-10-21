@@ -4,48 +4,48 @@
         "brand": "SHARP",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TFU52_L_P_7290015970921_1.png",
         "data": "Lower freezer fridge 4 doors 615 black liter black glass SHARP",
-        "price": "$3,000"
+        "price": 3000
     },
     {
         "id":"fridge-2",
         "brand": "Sachs EF-580N",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/UPH46_L_P_7290017430652_1.png",
         "data": "Refrigerator 4 lower freezing doors 410 liters white glass net",
-        "price": "$1,500"
+        "price": 1500
     },
     {
         "id":"fridge-3",
         "brand": "SHARP",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/RUZ60_L_P_7296073591092_1.png",
         "data": "Refrigerator 4 white glass doors",
-        "price": "$3,000"
+        "price": 3000
     },
     {
         "id":"fridge-4",
         "brand": "Haier",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LOO52_L_P_7290110788261_1.png",
         "data": "Refrigerator 4 472-liter freezer lower Nirosta",
-        "price": "$1,670"
+        "price": 1670
     },
     {
         "id":"fridge-5",
         "brand": "AMCOR | AM4506GW",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/LER60_L_P_7290015965484_1.png",
         "data": "Refrigerator 4 lower freezing doors 483 liters white glass net",
-        "price": "$1,550"
+        "price": 1550
     },
     {
         "id":"fridge-6",
         "brand": "AMCOR | AM4472GB",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/VKB40_L_P_7290018802120_1.png",
         "data": "Refrigerator 4 lower freezing doors 401 liters black glass net",
-        "price": "$1,300"
+        "price": 1300
     },
     {
         "id":"fridge-7",
         "brand": "SHARP | SJ-FP85V",
         "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/ZYS54_L_P_7290016942149_1.png",
         "data": "Refrigerator freezes bottom 4 doors 516 liters of gray glossy",
-        "price": "$2,600"
+        "price": 2600
     }
 ]
