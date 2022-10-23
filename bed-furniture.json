@@ -9,7 +9,7 @@
     {
         "id":"bed-2",
         "brand": "MALM",
-        "imageBed": "https://www.ikea.com/eg/en/images/products/malm-ottoman-bed-white__0594850_pe676177_s5.jpg?f=xxs",
+        "image": "https://www.ikea.com/eg/en/images/products/malm-ottoman-bed-white__0594850_pe676177_s5.jpg?f=xxs",
         "data": "Ottoman bed, white, 180x200 cm",
         "price": 4800
     },
